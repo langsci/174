@@ -1,0 +1,356 @@
+Abdal
+action
+acquisition
+\textsc{activity}
+admixture
+Afanasevo culture
+affordance
+agriculture
+Ainu
+Alaska
+Aleut Islands
+Altai
+Altaic
+alternative question
+ambient optical array
+Amdo
+Amdo Sprachbund
+Amur
+analysis
+analyzability
+anatomically modern humans
+Ancient North Eurasians
+answer
+anthropocene
+anticipation rule
+Arctic Ocean
+areal linguistics
+Asia
+atrophied
+Baikal
+basic question word
+basic semantic category
+Bering Strait
+Beringia
+Beringian Standstill Model
+bilingualism
+borrowing
+case
+contact
+diachronic
+enchronic
+microgenetic
+ontogenetic
+phylogenetic
+synchronic
+causal frame
+\textsc{cause}
+China
+Chukotka
+climate
+cognition
+Cognitive Grammar
+Cognitive Linguistics
+Cognitive Psychology
+Cognitive Science
+cognitive typology
+collative variables
+combination
+communicative motives
+complexification
+complexity
+conception
+conceptual space
+content question
+continuum
+conventionalization
+converb
+convergent evidence
+cooperation
+coordination
+\textsc{count}
+creoles
+curiosity
+declarative sentence
+demonstratives
+Denisovan
+Devil’s Gate Cave
+dialect contiuua
+dialogical array
+\textsc{direction}
+disjunction
+distributional typology
+double marking
+dual
+East Asia
+ecolinguistics
+ecological commitment
+Ecological Psychology
+ecological typology
+ecology
+embodied simulation
+emphasis
+entrenchment
+ergative
+Eurasiatic
+Europe
+evidentiality
+evolution
+exploratory behavior
+facial expression
+Far Eastern Federal district
+focus
+focus question
+front rounded vowels
+fronting
+functional domain
+Gansu
+genetic bias
+gestalt
+Gestalt Psychology
+gestures
+glossing
+Gobi
+grammar of questions
+grammaticalization
+Greater Himalayan Region
+Greater Manchuria
+Gulf of Bohai
+hierarchy
+Himalayas
+Hokkaid\=o
+Holocene
+homeland
+Homo erectus
+Honsh\=u
+huh
+human genome
+hunter-gatherer
+in situ
+Indigirka
+inflection
+informing
+Inner Asia
+Inner Mongolia
+interaction
+interbreeding
+interrogation
+interrogative
+interrogative systems
+interrogative verb
+interrogativity
+intonation
+Japan
+J\=omon
+Jurchen
+kakari musubi
+Kamchatka
+Karakorum
+Ket
+Khinganic
+KIN-interrogative
+\textsc{kind}
+K-interrogative
+Kolyma
+Korea
+Krorän
+Kucha
+Kunlun
+Kuril
+landscape roughness
+language contact
+language change
+language death
+language diversity
+language family
+language isolate
+language sampling
+language shift
+language spread
+laryngeal sounds
+Last Glacial Maximum
+Lena
+Liao
+lingua franca
+linguistic area
+linguistic diversity
+linguistic typology
+\textsc{location}
+looking
+Manchu
+Manchuria
+Manchurian Plain
+\textsc{manner}
+markedness
+\textsc{mass}
+matter of degree
+migration
+mitochondial DNA
+mixed languages
+mixed transparent
+Mongolia
+Mongolian Plateau
+morphology
+m-T-pronouns
+nasals
+natural boundary
+natural selection
+Neanderthals
+negation
+niche construction
+Noord en Oost Tartarye
+North Asia
+North Chinese Plain
+North Korea
+Northeast Asia
+Northeast Eurasia
+Okhotsk culture
+Okhotsk people
+one word answer
+opaque
+Ordos Plateau
+organism-environment system
+\=Osaka
+other initiated repair
+Pacific Ocean
+Pacific Rim
+Paleo Eskimos
+Paleo-Siberian
+Pamir
+Pamir-Hindukush Sprachbund
+pastoralism
+perception
+perception-action cycle
+\textsc{person}
+phylogenetic diversity
+physiology
+pidgins
+\textsc{place}
+plural
+pointing
+polar question
+Pontic-Caspian steppe
+population density
+population movement
+population typology
+possession
+precipitation
+prediction
+prehistory
+proto-languages
+Punuk
+\textsc{purpose}
+Qarashähär
+Qäwrighul
+Qianlong
+Qinghai
+Qingwen qimeng
+Qinling
+\textsc{quality}
+\textsc{quantity}
+questions
+question-response sequences
+question marker
+question marking
+question tag
+question type
+questioning process
+ecological theory of questions
+reconstruction
+reduction
+reduplication
+reference point
+regularity
+reinforcement
+request
+requesting
+residual zone
+resonance
+response
+rice
+riddle
+river density
+Russia
+Ry\=uk\=u
+Sakhalin
+schematicity
+Sea of Okhotsk
+\textsc{selection}
+semantic change
+semantic map
+semantic scope
+sharing
+Siberia
+Siberian Federal district
+similarity
+simplification
+single marking
+singular
+sinocentric
+smallpox
+\textsc{source}
+South Korea
+Southeast Asia
+Mainland Southeast Asia
+specificity
+speech act
+split type
+spread zone
+stability
+stereotypes
+stimulus-response
+structural diversity
+submorpheme
+subsistence
+suffixing
+Sunggari
+tag question
+Taiga
+Taiwan
+Taklamakan
+Tarim
+temperature
+tendency
+tense-aspect-mood
+\textsc{thing}
+thinking
+Thule
+Tianshan
+Tibetan Plateau
+\textsc{time}
+time scale
+toponyms
+Transeurasian
+transparency
+transparent
+tropics
+Tundra
+Turfan
+turn taking
+typology of question
+ultra-sociality
+uncertainty
+universal
+Ural
+Ural-Altaic
+Ussuri
+velar nasal
+Volga-Kama
+vowel harmony
+Western Siberian Lowland
+wh-movement
+wh-word
+word class
+word order
+World Atlas of Language Structures
+Xianbei
+Xiaohe
+Xinjiang
+Xiongnu
+Yalu
+Yamnaya
+Yellow River
+Yenisei
+Yukaghir
+yukar
+Yunnan

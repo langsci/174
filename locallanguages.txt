@@ -1,0 +1,344 @@
+Abui
+ǂ\=Akhoe Haiǁom
+Ainu-Itelmen hybrid
+Ainu
+Ainuic
+Alchuka
+Aleut
+Copper Island Aleut
+Altai Turkic
+Alutor
+Amis
+Amuric
+Anong
+Apache
+Arabic
+Aramaic
+Arin
+Arman
+Assan
+Assanic
+Atayal
+Avestan
+Baima
+Bala
+Balaic
+Balantak
+Bantawa
+Bardi
+Basque
+Bengali
+Bonan
+Bretonic
+Burushaski
+Buryat
+Cha’palaa
+Chagatay
+Chakhar Mongolian
+Chalkan
+Chinese Pidgin English
+Old Chinese
+Chinese
+Chukchi
+Chukotian
+Chukotko-Kamchatkan
+Chulym
+Chuvan
+Chuvash
+Common Dialectal Chinese
+Crow
+Dagur
+Dardic
+Darkhat
+Djabugay
+Dolgan
+Dukhan
+Dunan
+Dungan
+Dutch
+Early Chinese
+Edo
+Ancient Egyptian
+Enets
+English
+Old English
+Estonian
+Even
+Evenki
+Ewenic
+Eyak
+Eynu
+Finnic
+Finnish
+Finno-Mordvinic
+Finno-Permic
+Finno-Saamic
+Finno-Ugric
+Finno-Volgaic
+Fuyu
+Gangou
+Garrwa Talk
+Middle High German
+German
+Old High German
+Germanic
+Gilyak
+Gothic
+Govorka
+Greek, Ancient
+Western Greenlandic
+Guiqiong
+Hachij\=o
+Hadiyya
+Halkomelem
+Hateruma
+Hatoma
+Hausa
+Hebrew
+Hezhen
+Hezhou Chinese
+Hirara
+Hungarian
+Ikema
+Ili Turki
+Indo-Aryan
+Indo-Iranian
+Indonesian
+Irabu
+Iranian
+Ishigaki
+Isoko
+Italian
+Itelmen
+Jamaican Creole English
+Old Japanese
+pre-modern Modern Japanese
+Japanese
+Japhug
+Jeju
+Jurchen A
+Jurchen B
+Jurchenic
+Kamass
+Kangjia
+Karagas
+Kazakh
+Kerek
+Ket
+Khakas
+Khalaj
+Khalkha
+Khantic
+Khanty
+Kharia
+Khitan
+Khorchin
+Khotong
+Khwarshi
+Kilen
+Kili
+KiNubi
+Kipchak
+Koasati
+Kohama
+Koibal
+Komi-Zyrian
+Kolyemal
+Korean
+Late Old Korean
+Middle Korean
+Old Korean
+Pre-Modern Korean
+Koryak
+Kott
+Kulina
+Kuroshima
+Kusunda
+Kyakala
+Kyakhta Pidgin
+Kyrgyz
+Lao
+Latin
+Lithuanian
+Maltese
+Manchu
+Manchuic
+Mandarin
+Mangghuer
+Mansi
+Mansic
+Mariic
+Mator
+Mauwake
+Middle Chinese
+Miyara
+Moghol
+Mon
+Mongghul
+Khamnigan Mongol
+Middle Mongol
+Mongolic
+Mongsen Ao
+Mordvin
+Mordvinic
+Nagahama
+Nanai
+Nanaic
+Navajo
+Negidal
+Nembe
+Nenets
+Nganasan
+Nivkh
+Northeastern Turkic
+Nuristani
+\=Ogami
+Oghur
+Oghuz
+Oirat
+Okinoerabu
+Old Chinese
+Ometo
+Omok
+Ordos
+Oroch
+Oroqen
+Paleo-Eskimo
+Palula
+Para-Ainuic
+Para-Finnic
+Para-Japonic
+Para-Mongolic
+Permic
+Persian
+Plautdiitsch
+Portuguese
+Prakrit
+Prinmi
+Proto-Ainuic
+Proto-Amuric
+Proto-Chukotian
+Proto-Chukotko-Kamchatkan
+Proto-Dene-Yeniseian
+Proto-Eskaleut
+Proto-Eskimo
+Proto-Germanic
+Proto-Indo-European
+Proto-Japonic
+Proto-Koreanic
+Proto-Mongolic
+Proto-Ry\=uky\=uan
+Proto-Samoyedic
+Proto-Slavic
+Proto-Tibetic
+Proto-Trans-Himalayan
+Proto-Tungusic
+Proto-Turkic
+Proto-Uralic
+Proto-Yeniseic
+Proto-Yukaghiric
+Proto-Yupik-Sirenik
+Pumpokol
+Qiang
+Quechua
+rGyalrong
+Rouran
+Russian
+Old Ryukyuan
+Saami
+Saamic
+Sabanê
+Saisiyat
+Saka
+Salar
+Samar
+Samagir
+Samoyedic
+Sanskrit
+Santa
+Sanuma
+Sarig Yughur
+Sarikoli
+Selkup
+Sheko
+Shira Yughur
+Shodon
+Shor
+Shuri
+Sibe
+Siberian Turkic
+Sinhala
+Sinitic
+Sirenikski
+Slavey
+Slavic
+Old Church Slavonic
+Sogdian
+Solon
+Sonai
+Sranan
+Sumerian
+Surzhyk
+Tajik
+Tajik
+Tangut
+Tangwang
+Tarama
+Tatar
+Tzeltal
+Amdo Tibetan
+Classical Tibetan
+Tibetan
+Old Tibetan
+Tibetic
+Tlingit
+Tocharian A
+Tocharian B
+Tofa
+Trans-Himalayan
+Tshangla
+Tsou
+Tsuken
+Tungusic
+Turkic
+Old Turkic
+Turkish
+Turkmen
+Tuvan
+Tuyuhun
+Tzeltal
+Udegheic
+Udihe
+Udmurt
+Uilta
+Ukrainian
+Ulcha
+Ura
+Uralic
+Urarina
+Ute
+Uyghur
+Uygur-Karluk
+Uzbek
+Veps
+Votic
+Wakhi
+Wari’
+West Greenlandic
+Wutun
+Yaghnobi
+Yakut
+Yélî Dnye
+Yenisei-Ostyakic
+Yeniseic
+Yiddish
+Yilan Creole
+Yugh
+Yukaghir
+Yukaghiric
+Yukcin
+Yupik
+Naukan
+Yurats
+Yuwan
+Zhongu
